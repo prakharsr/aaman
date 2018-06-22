@@ -164,6 +164,10 @@ MIT
 MIT
 MIT
 
+@livechat/angular-widget@0.0.6
+MIT
+MIT
+
 hammerjs@2.0.8
 MIT
 The MIT License (MIT)
